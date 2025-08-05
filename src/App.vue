@@ -34,6 +34,7 @@
 
 <style scoped>
 body {
+  zoom: 90%;
   margin: 0;
   font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   background-color: #f9f9f9;
