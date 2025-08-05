@@ -35,14 +35,6 @@
             <div class="small text-muted">12:00 PM</div>
           </div>
         </li>
-
-        <li class="timeline-item">
-          <div class="timeline-marker bg-dark"></div>
-          <div class="timeline-content">
-            <strong>Back home</strong> and rest
-            <div class="small text-muted">06:30 PM</div>
-          </div>
-        </li>
       </ul>
     </div>
   </div>
